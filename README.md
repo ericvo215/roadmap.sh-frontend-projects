@@ -1,7 +1,7 @@
 # roadmap.sh-frontend-projects
 ## Frontend Projects
-- [x] Single-Page CV
-- [ ] Basic HTML Website
+- [x] [Single-Page CV](https://pages.github.com/)
+- [ ] [Basic HTML Website]
 - [ ] Personal Portfolio
 - [ ] Changelog Component
 - [ ] Testimonial Cards
