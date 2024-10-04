@@ -1,5 +1,5 @@
 # roadmap.sh-frontend-projects
-Frontend Projects
+## Frontend Projects
 - [ ] Single-Page CV
 - [ ] Basic HTML Website
 - [ ] Personal Portfolio
