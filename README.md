@@ -2,8 +2,8 @@
 ## Frontend Projects
 - [x] [Single-Page CV]([https://pages.github.com/](https://roadmap.sh/projects/single-page-cv))
 - [x] [Basic HTML Website]([https://roadmap.sh/projects/basic-html-website])
-- [x] [Personal Portfolio[([https://roadmap.sh/projects/changelog-component])
-- [x] Changelog Component
+- [x] [Personal Portfolio]([https://roadmap.sh/projects/changelog-component](https://roadmap.sh/projects/portfolio-website])
+- [x] Changelog Component([https://roadmap.sh/projects/changelog-component])
 - [ ] Testimonial Cards
 - [ ] Datepicker UI
 - [ ] Accessible Form UI
